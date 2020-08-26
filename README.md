@@ -5,7 +5,7 @@ Process design aided by machine learning. Define your connected facilities (depa
 
 ** **
 
-> **DOWNLOAD link: [FacilityNetworkML v1.18](https://github.com/AI-TOOLKIT/FacilityNetworkML/releases/download/v1.18/FacilityNetworkMLSetup.exe) The full version of the software is FREE for non-commercial use!** (Microsoft Windows 64bit compatible (Windows 7, 8 and 10))
+> **DOWNLOAD link: [FacilityNetworkML](https://ai-toolkit.blogspot.com/p/ai-toolkit.html) The full version of the software is FREE for non-commercial use!** (Microsoft Windows 64bit compatible (Windows 7, 8 and 10))
 >
 
 ** **

@@ -14,7 +14,7 @@ Process design aided by machine learning. Define your connected facilities (depa
 > AI-TOOLKIT HELPDESK: **[AI-TOOLKIT HELPDESK FOR SERIAL NUMBER](https://aitoolkit.freshdesk.com/support/solutions/articles/26000016343)**
 >
 
-> **VectorML Official website**: [AI-TOOLKIT FacilityNetworkML](https://ai-toolkit.blogspot.com/p/facilitynetworkml.html)
+> **FacilityNetworkML Official website**: [AI-TOOLKIT FacilityNetworkML](https://ai-toolkit.blogspot.com/p/facilitynetworkml.html)
 
 # FacilityNetworkML
 FacilityNetworkML is facility network operation design aided by machine learning. Define your connected facilities (departments, work cells, service stations, etc.; ‘facility’ may mean many things) and the software will guide you in sizing your network (number of servers/employees, waiting time, queues, etc.). The software is very easy and intuitive to use. You just simply need to draw the flow diagram of your connected processes with the mouse, set a few parameters and FacilityNetworkML will do the rest.
